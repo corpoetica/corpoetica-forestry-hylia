@@ -1,5 +1,5 @@
 ---
-title: A simple posttt
+title: A simple postt
 date: 2019-06-18
 tags:
 - demo-content
